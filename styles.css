@@ -1,0 +1,18 @@
+
+* {
+    font-family: sans-serif;
+}
+
+body {
+    color: white;
+    background-color: darkblue;
+}
+
+h1 {
+    text-align: center;
+    border: 5px solid rgb(87, 107, 122);
+}
+
+h2 {
+    text-decoration: underline rgb(87, 107, 122) 3px;
+}
